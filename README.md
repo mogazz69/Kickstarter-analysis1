@@ -23,4 +23,4 @@ surprisingly the most successful outcomes were the ones with the least amount pl
 
 
 # Summary
-One of the limitations of this data set is the small sample size. In addition, a box and whisker graph could provide some onsite on what potential outliers are in the data set.
+One of the limitations of this data set is the small sample size. In addition, a box and whisker graph could provide some insite on what potential outliers are in the data set.
